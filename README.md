@@ -1,4 +1,5 @@
-# This repository contains the code for a clone of the Instagram login page, built using HTML and CSS. The project aims to replicate the look and feel of the original Instagram login interface, focusing on layout and styling.
+# Instaram Login Page
+This repository contains the code for a clone of the Instagram login page, built using HTML and CSS. The project aims to replicate the look and feel of the original Instagram login interface, focusing on layout and styling.
 
 ## Features
 **Clean and Modern Layout**: Mimics the clean and minimalist design of Instagram.
